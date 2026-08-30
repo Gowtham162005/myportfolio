@@ -131,10 +131,11 @@ main>.right{
     align-items: center;
 }
 main>.right img{
-      width: 350px;
-    height: 350px;
+      height: 60%;
+    max-width: 400px;
     object-fit: cover;
     border-radius: 20%;
+
 }
 @keyframes name {
     from{
